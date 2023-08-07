@@ -17,12 +17,12 @@ This script is designed to download PDF documents from the Supreme Court of Ukra
 
 1. Clone this repository:
    ```
-   git clone <repository_url>
+   git clone https://github.com/YaroslavBaienko/sites_downloader.git
    ```
 
 2. Navigate to the repository directory:
    ```
-   cd <repository_directory>
+   cd /sites_downloader
    ```
 
 3. Install the required libraries:
@@ -34,7 +34,7 @@ This script is designed to download PDF documents from the Supreme Court of Ukra
 
 1. Run the script:
    ```
-   python <script_name>.py
+   python main.py
    ```
 
 2. The script will check for the existence of PDF files and download them if they exist. The downloaded files will be saved in the same directory as the script.
